@@ -1,4 +1,4 @@
-## Welcome to Sentinal4D! 👋
+## Welcome to Sentinal4D! 
 
 3D + AI powered drug discovery
 
